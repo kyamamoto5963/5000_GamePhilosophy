@@ -26,6 +26,7 @@
 
 ### 設定 (settings)
 - [開発元・サイト情報](settings/developer-identity.md) — 会社名 beernosusume.net、サイト・アプリの現状
+- [開発環境（2拠点：会社／自宅）](settings/dev-environments.md) — 拠点差の切り替え運用と拠点差一覧
 
 ### 成功事例 (success)
 <!-- - [タイトル](success/xxx.md) — 一言メモ -->
