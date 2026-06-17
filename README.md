@@ -25,7 +25,7 @@
 <!-- - [タイトル](philosophy/xxx.md) — 一言メモ -->
 
 ### 設定 (settings)
-<!-- - [タイトル](settings/xxx.md) — 一言メモ -->
+- [開発元・サイト情報](settings/developer-identity.md) — 会社名 beernosusume.net、サイト・アプリの現状
 
 ### 成功事例 (success)
 <!-- - [タイトル](success/xxx.md) — 一言メモ -->
