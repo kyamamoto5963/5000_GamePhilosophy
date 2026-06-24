@@ -11,6 +11,7 @@
 ## 索引
 
 - [compare_damage-formula.md](compare_damage-formula.md) — ダメージ計算式の比較・選定（除算方式ベース＋本作向け補正：ランダム抑制ほか）
+- [画像生成AI/](画像生成AI/) — 画像生成AIサービスのサービス別調査（PixelLab ほか）
 
 ## 書き方ルール
 
