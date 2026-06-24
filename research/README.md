@@ -10,7 +10,7 @@
 
 ## 索引
 
-（まだ無し）
+- [compare_damage-formula.md](compare_damage-formula.md) — ダメージ計算式の比較・選定（除算方式ベース＋本作向け補正：ランダム抑制ほか）
 
 ## 書き方ルール
 
